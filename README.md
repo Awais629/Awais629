@@ -3,4 +3,4 @@ His expertise includes:
 ⦿ Web: MERN Stack, WordPress, Shopify, Google Apps Script Web App 
 ⦿ Desktop: .net 
 ⦿ Database: Microsoft SQL Server, MySQL, Oracle, MongoDB, Firebase
-He is experienced in Javascript, HTML5, CSS3, and C++.
+He is experienced in Javascript, HTML5, CSS3, Python, and C++.
